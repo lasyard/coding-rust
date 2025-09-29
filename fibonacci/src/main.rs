@@ -9,6 +9,6 @@ fn main() {
         }
         arr
     } {
-        print!("{:?} ", i);
+        print!("{} ", i);
     }
 }
