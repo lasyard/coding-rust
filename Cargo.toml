@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "collection-praxis",
+    "fibonacci",
+    "guessing_game",
+    "hello-async",
+    "hello-rust",
+    "minigrep",
+    "rectangle",
+]
+resolver = "3"
