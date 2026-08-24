@@ -7,5 +7,6 @@ members = [
     "hello-rust",
     "minigrep",
     "rectangle",
+    "web-server",
 ]
 resolver = "3"
